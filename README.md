@@ -20,7 +20,7 @@ No installation is required to play the game, as it runs directly in the browser
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone git@github.com:Aadithya2002/Snake_game.git
+    git clone git@github.com:https://github.com/Aravind12102/Snake_game.git
     ```
 
 2. Open `index.html` in your web browser.
@@ -52,4 +52,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Add more special food items with various effects.
 - Introduce levels with increasing difficulty and obstacles.
 
-For more details about the project and its development, feel free to contact the contributors or open an issue on GitHub.
